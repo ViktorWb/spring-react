@@ -1,4 +1,4 @@
-package com.springreact.springreact;
+package com.springreact.springreact.todoapi;
 
 class TodoNotFoundException extends RuntimeException {
     TodoNotFoundException(Integer id) {

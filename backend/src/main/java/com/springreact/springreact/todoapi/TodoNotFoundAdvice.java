@@ -1,4 +1,4 @@
-package com.springreact.springreact;
+package com.springreact.springreact.todoapi;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

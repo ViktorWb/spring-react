@@ -1,4 +1,4 @@
-package com.springreact.springreact;
+package com.springreact.springreact.todoapi;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

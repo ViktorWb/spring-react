@@ -1,0 +1,31 @@
+{
+    "name": "@decthings-internal/web-app",
+    "author": "Decthings",
+    "private": true,
+    "main": "dist/index.js",
+    "scripts": {
+      "buildDev": "MODE=development webpack",
+      "buildProd": "MODE=production webpack",
+      "watchDev": "MODE=development webpack --watch",
+      "watchProd": "MODE=production webpack --watch"
+    },
+    "dependencies": {
+      "react": "^18.2",
+      "react-dom": "^18.2",
+      "react-router-dom": "6.14"
+    },
+    "devDependencies": {
+      "@types/node": "^20.4",
+      "@types/react": "^18.2",
+      "@types/react-dom": "^18.2",
+      "css-loader": "^6.8",
+      "file-loader": "^6.2",
+      "raw-loader": "^4.0",
+      "source-map-loader": "^4.0",
+      "style-loader": "^3.3",
+      "ts-loader": "^9.4",
+      "webpack": "^5.88",
+      "webpack-cli": "^5.1"
+    }
+  }
+  

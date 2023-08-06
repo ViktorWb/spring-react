@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "target": "es2017",
+        "moduleResolution": "node",
+        "jsx": "react",
+        "sourceMap": true,
+        "lib": ["dom"],
+        "baseUrl": ".",
+        "paths": {
+            "_src/*": [ "./src/*" ]
+        },
+        "noErrorTruncation": true,
+        "noEmit": true,
+        "allowSyntheticDefaultImports": true
+    }
+}

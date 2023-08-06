@@ -33,3 +33,4 @@ build/
 .vscode/
 
 workspace
+src/main/resources/static/src

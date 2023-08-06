@@ -1,4 +1,4 @@
-package com.springreact.springreact;
+package com.springreact.springreact.todoapi;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
